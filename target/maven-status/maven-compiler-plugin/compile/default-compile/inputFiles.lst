@@ -1,0 +1,10 @@
+C:\NetBeansProjects\PrimerServlet\src\main\java\com\mycompany\primerservlet\servlets\SvUsuarios.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\com\mycompany\primerservlet\servlets\SvEditar.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\persistencia\ControladoraPersistencia.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\persistencia\exceptions\PreexistingEntityException.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\logica\Controladora.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\persistencia\UsuarioJpaController.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\com\mycompany\primerservlet\servlets\SvEliminar.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\logica\Usuario.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\persistencia\exceptions\NonexistentEntityException.java
+C:\NetBeansProjects\PrimerServlet\src\main\java\persistencia\exceptions\IllegalOrphanException.java
